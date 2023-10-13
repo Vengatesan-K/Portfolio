@@ -57,7 +57,7 @@ with col1:
     ''')
 
  image = Image.open('fc.png')
- st.image(image, width=150)
+ st.image(image, width=80)
  
 
  add_vertical_space(1)
