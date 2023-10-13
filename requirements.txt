@@ -4,4 +4,4 @@ streamlit_extras
 plotly-express
 streamlit
 pandas
-Pillow
+pillow
