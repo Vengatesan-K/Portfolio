@@ -1,7 +1,7 @@
-streamlit_option_menu==0.3.6
-plotly==5.15.0
-streamlit_extras==0.3.0
-plotly-express==0.4.1
-streamlit==1.25.0
-pandas==2.0.3
-Pillow==10.0.0
+streamlit_option_menu
+plotly
+streamlit_extras
+plotly-express
+streamlit
+pandas
+Pillow
