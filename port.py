@@ -311,15 +311,15 @@ with col2:
 ## Projects 
 ''')
  txt4('YouTube data harvesting and warehousing', 'Develope a Streamlit application that allows users to access and analyze data from multiple YouTube channels.', 'https://github.com/Vengatesan-K/Youtube-Data-Harvesting-and-Warehousing')
- st.image("ytt.png")
+ st.image("Images/ytt.png")
  txt4('PhonePe Pulse Data Visualization', ' Extract phonepe pulse data and process it to obtain insights and information that can be visualized in a user-friendly manner.', 'https://github.com/Vengatesan-K/PhonePe-Pulse-Data-Visualization')
- st.image("php.png")
+ st.image("Images/php.png")
  txt4('Stock Price Analysis', 'Creating a stock price analysis application using Python and Streamlit combines technical skills with financial knowledge.','https://github.com/Vengatesan-K')
- st.image("sti.png")
+ st.image("Images/sti.png")
  txt4('Find Pdf Password', '📑PDF password recovery tool.', 'https://github.com/Vengatesan-K')
- st.image("pdf.png")
+ st.image("Images/pdf.png")
  txt4('Phonepe Dahshboard', 'powerbi dashboard for phonepe pulse data from 2018 to 2022','https://github.com/Vengatesan-K/PowerBI-PhonePe')
- st.image("phpp.png")
+ st.image("Images/phpp.png")
  
  st.markdown('''
 ## Social Media
