@@ -260,7 +260,7 @@ with col2:
 
 
  txt('**Data Science Mastery Program** , *GUVI Geek Networks (IITM Research Park)*, Chennai',
-'2023')
+'Mar2023 - Oct 2023')
  st.markdown('''
 - Data Science Professional with IIT Certification in Advanced Programming.
 - I have successfully completed a comprehensive Python programming course, equipping me with a strong foundation in coding. Additionally, I have gained proficiency in working with databases, including SQL and MongoDB, enabling me to effectively manage and manipulate data. 
