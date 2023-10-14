@@ -11,11 +11,11 @@ h5 {
 }
 
 img {
-    margin-left: 11.2rem;
+    margin-left: 17.2rem;
 }
 
 #MainMenu {
-    visibility: hidden;
+    visibility: visible;
 }
 footer {
     visibility: hidden;
