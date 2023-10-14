@@ -51,8 +51,8 @@ col1,col2 = st.columns([3,7])
 with col1:
 #####################
 # Header 
- image = Image.open('fc.png')
- st.image(image, width=150)
+image = Image.open('fc.png')
+st.image(image, width=150)
  st.write('''
     # Vengatesan K
     ##### *Enthusiastic Data Scientist* 
