@@ -56,7 +56,7 @@ with col1:
     ##### *Enthusiastic Data Scientist* 
     ''')
 
- image = Image.open('fc.png')
+ image = Image.open('fcb.png')
  st.image(image, width=200)
  
 
