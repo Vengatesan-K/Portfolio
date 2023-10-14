@@ -183,7 +183,7 @@ with col1:
  st.markdown('__<p style="text-align:left; font-size: 20px; color: #F7F5F5">:mailbox: Get In Touch With Me!</P>__',
                 unsafe_allow_html=True)
 
-     contact_form = """
+ contact_form = """
      <form action="https://formsubmit.co/YOUREMAIL@EMAIL.COM" method="POST">
      <input type="hidden" name="_captcha" value="false">
      <input type="text" name="name" placeholder="Your name" required>
@@ -193,15 +193,15 @@ with col1:
      </form>
      """
 
-     st.markdown(contact_form, unsafe_allow_html=True)
+ st.markdown(contact_form, unsafe_allow_html=True)
 
 # Use Local CSS File
-     def local_css(file_name):
+ def local_css(file_name):
         with open(file_name) as f:
           st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 
-     local_css("style1.css") 
+ local_css("style1.css") 
 
 
 
