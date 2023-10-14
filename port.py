@@ -47,7 +47,7 @@ with open("style.css") as f:
     st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
 
 
-col1,col2 = st.columns([2,8])
+col1,col2 = st.columns([3,7])
 with col1:
 #####################
 # Header 
@@ -55,9 +55,11 @@ with col1:
     # Vengatesan K
     ##### *Enthusiastic Data Scientist* 
     ''')
+ col3,col4 = st.columns([7,3])
 
- image = Image.open('fc.png')
- st.image(image, width=150)
+ with col3:
+  image = Image.open('fc.png')
+  st.image(image, width=150)
  
 
  add_vertical_space(1)
