@@ -56,8 +56,8 @@ with col1:
     ##### *Enthusiastic Data Scientist* 
     ''')
 
- image = Image.open('fcb.png')
- st.image(image, width=200)
+ image = Image.open('fc.png')
+ st.image(image, width=150)
  
 
  add_vertical_space(1)
@@ -311,15 +311,15 @@ with col2:
 ## Projects 
 ''')
  txt4('YouTube data harvesting and warehousing', 'Develope a Streamlit application that allows users to access and analyze data from multiple YouTube channels.', 'https://github.com/Vengatesan-K/Youtube-Data-Harvesting-and-Warehousing')
- st.image("Images/ytt.png")
+ st.image("ytt.png")
  txt4('PhonePe Pulse Data Visualization', ' Extract phonepe pulse data and process it to obtain insights and information that can be visualized in a user-friendly manner.', 'https://github.com/Vengatesan-K/PhonePe-Pulse-Data-Visualization')
- st.image("Images/php.png")
+ st.image("php.png")
  txt4('Stock Price Analysis', 'Creating a stock price analysis application using Python and Streamlit combines technical skills with financial knowledge.','https://github.com/Vengatesan-K')
- st.image("Images/sti.png")
+ st.image("sti.png")
  txt4('Find Pdf Password', '📑PDF password recovery tool.', 'https://github.com/Vengatesan-K')
- st.image("Images/pdf.png")
+ st.image("pdf.png")
  txt4('Phonepe Dahshboard', 'powerbi dashboard for phonepe pulse data from 2018 to 2022','https://github.com/Vengatesan-K/PowerBI-PhonePe')
- st.image("Images/phpp.png")
+ st.image("phpp.png")
  
  st.markdown('''
 ## Social Media
