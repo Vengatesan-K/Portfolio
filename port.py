@@ -47,7 +47,7 @@ with open("style.css") as f:
     st.markdown('<style>{}</style>'.format(f.read()), unsafe_allow_html=True)
 
 
-col1,col2 = st.columns([4,6])
+col1,col2 = st.columns([2,8])
 with col1:
 #####################
 # Header 
