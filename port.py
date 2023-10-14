@@ -51,17 +51,13 @@ col1,col2 = st.columns([3,7])
 with col1:
 #####################
 # Header 
+ image = Image.open('fc.png')
+ st.image(image, width=150)
  st.write('''
     # Vengatesan K
     ##### *Enthusiastic Data Scientist* 
     ''')
- col3,col4 = st.columns([7,3])
-
- with col3:
-  image = Image.open('fc.png')
-  st.image(image, width=150)
  
-
  add_vertical_space(1)
  from streamlit_extras.word_importances import format_word_importances
 
